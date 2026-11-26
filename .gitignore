@@ -1,0 +1,9 @@
+node_modules/
+web/node_modules/
+web/dist/
+web/public/data/
+data/
+*.pdf
+*.log
+.DS_Store
+Thumbs.db
